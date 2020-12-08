@@ -1,6 +1,7 @@
 # Olá  👋 
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+<img align="right" src="https://github.com/WitGames2/WitGames2/blob/main/imagens/undraw_code_review_l1q9.png" width="450"/>
+
 
 <br/>
 
